@@ -1,0 +1,19 @@
+[
+  "Programming", "Java", "Computer", "Alias", "Framework", "Application", "Database", "Function", "Loop", "Object",
+  "Class", "Method", "Inheritance", "Polymorphism", "Abstraction", "Encapsulation", "Interface", "Package", "Array",
+  "String", "Integer", "Boolean", "Exception", "Thread", "Concurrency", "Socket", "Web", "Server", "Client",
+  "API", "REST", "JSON", "XML", "HTML", "CSS", "JavaScript", "TypeScript", "Node", "React", "Angular", "Vue",
+  "AngularJS", "CSS3", "HTML5", "Git", "Versioning", "Repository", "Commit", "Push", "Pull", "Clone", "Branch",
+  "Merge", "Conflict", "Test", "Unit", "Integration", "System", "UI", "UX", "Responsive", "Design", "Mobile",
+  "Desktop", "Cloud", "AWS", "Azure", "GCP", "DevOps", "CI", "CD", "Automation", "Docker", "Kubernetes",
+  "Container", "Virtualization", "Linux", "Windows", "Mac", "IDE", "Eclipse", "IntelliJ", "NetBeans",
+  "Compiler", "Debugger", "Syntax", "Error", "Runtime", "Code", "Refactor", "Clean", "Maintain", "Documentation",
+  "Frameworks", "Tools", "Libraries", "NPM", "Yarn", "Maven", "Gradle", "Spring", "Hibernate", "JPA", "Microservices",
+  "Monolithic", "Architecture", "Load", "Balancing", "Scalability", "Security", "Encryption", "Hashing", "Authentication",
+  "Authorization", "JWT", "OAuth", "Cookies", "Sessions", "Token", "Password", "Hash", "Salt", "APIKey",
+  "Firewall", "VPN", "Backup", "Recovery", "Data", "BigData", "Analytics", "Machine", "Learning", "AI", "Deep",
+  "Learning", "Neural", "Network", "Training", "Model", "Python", "R", "TensorFlow", "Keras", "PyTorch",
+  "Jupyter", "Pandas", "NumPy", "Scikit", "ScikitLearn", "DataFrame", "SQL", "NoSQL", "MongoDB", "PostgreSQL",
+  "MySQL", "SQLite", "Redis", "GraphQL", "SQLAlchemy", "ORM", "Migration", "Schema", "Transaction",
+  "Indexing", "Query", "Join", "Aggregate", "Normalization", "Denormalization", "Relational", "DataModel"
+]
